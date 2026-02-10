@@ -223,3 +223,51 @@ section h2{
     border-radius: 30px;
     color: white;
 }
+.all{
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+}
+.first-all{
+    width: 400px;
+}
+.first-all h2{
+    font-size: 55px;
+}
+.first-all p{
+    font-size: 24px;
+    width: 90%;
+}
+.first2-all{
+    margin-left: 300px;
+}
+.first2-all img{
+    width: 30px;
+}
+.all-first-img{
+    width: 200px;
+    height: 350px;
+    border-radius: 50px;
+    background-image: url(./img.png/img1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.all-first-img p{
+    color: white;
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 300px;
+}
+.img2{
+    background-image: url(./img.png/img2.png);
+}
+.img3{
+    background-image: url(./img.png/img3.png);
+}
+.abd{
+    display: flex;
+    gap: 30px;
+}
