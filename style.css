@@ -1,6 +1,9 @@
 *{
     margin: 0;
 }
+body{
+    background-color: rgba(246, 246, 246, 0.98);
+}
 header{
     width: 100%;
     height: 100vh;
@@ -188,4 +191,35 @@ section h2{
 .mm{
     color: rgba(241, 120, 182, 1);
     background-color: rgba(252, 221, 236, 1);
+}
+.back-color2{
+    margin-top: 100px;
+    background-color: rgba(244, 242, 238, 1);
+    width: 100%;
+    height: 650px;
+}
+.book-par{
+    display: flex;
+    justify-content: center;
+}
+.right-book-par{
+    width: 50%;
+}
+.right-book-par h2{
+    color: rgba(23, 123, 165, 1);
+}
+.right-book-par p{
+    width: 70%;
+    font-size: 24px;
+    margin-left: 100px;
+    color: rgba(41, 45, 50, 1);
+}
+.right-book-par button{
+    margin-top: 30px;
+    margin-left: 100px;
+    border: none;
+    padding: 16px;
+    background-color: rgba(23, 123, 165, 1);
+    border-radius: 30px;
+    color: white;
 }
