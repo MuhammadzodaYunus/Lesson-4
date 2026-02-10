@@ -271,3 +271,41 @@ section h2{
     display: flex;
     gap: 30px;
 }
+.hh2{
+    text-align: center;
+    margin-bottom:50px;
+}
+.sector1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.left-part1{
+    width: 40%;
+}
+.left-part1 img{
+    width: 80%;
+}
+.right-part1{
+    width: 40%;
+}
+.right-part1 h4{
+    font-size: 32px;
+    margin-bottom: 20px;
+}
+.pap{
+    width: 75%;
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+.img-and-par{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.img-and-par img{
+    width: 30px;
+}
+.img-and-par p{
+    font-size: 18px;
+}
