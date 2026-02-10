@@ -364,3 +364,63 @@ section h2{
     border-radius: 30px;
     margin-top: 30px;
 }
+footer{
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-around;
+}
+.div1-footer h5{
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+.div1-footer p{
+    margin-bottom:10px ;
+    color: rgba(41, 45, 50, 1);
+}
+.div2-footer p{
+     margin-bottom:10px ;
+    color: rgba(41, 45, 50, 1);
+}
+.div2-footer h5{
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+.div3-footer h5{
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+.div4-footer h4{
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+.div4-footer p{
+    color: rgba(41, 45, 50, 1);
+}
+.div4-footer input{
+    display: block;
+    margin-top: 10px;
+    text-align: center;
+    padding: 15px;
+    width: 200px;
+    border-radius: 50px;
+    border: 1px solid rgba(0, 0, 0, 0.25);
+}
+.div4-footer button{
+    margin-top: 15px;
+    display: block;
+    margin-top: 10px;
+    text-align: center;
+    padding: 15px;
+    width: 240px;
+    border-radius: 50px;
+    border: none;
+    background-color: rgba(23, 123, 165, 1);
+    color: white;
+}
+.last-p{
+    background-color: rgba(41, 45, 50, 1);
+    width: 100%;
+    height:40px;
+    text-align: center;
+    color: white;
+}
